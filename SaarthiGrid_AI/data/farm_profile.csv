@@ -1,0 +1,6 @@
+farmer_id,name,state,district,land_acres,land_ownership,crop_type,caste_category,annual_income,existing_registrations,query
+F001,Ramesh Kumar,HP,Mandi,1.5,Owned,wheat,SC,60000,none,Find subsidies and advisory schemes for wheat farming in Mandi Himachal Pradesh.
+F002,Suresh Verma,HP,Shimla,3.0,Owned,apple,General,150000,Aadhaar,Which government schemes can help my apple orchard in Shimla?
+F003,Gurpreet Singh,Punjab,Ludhiana,0.5,Leased,rice,OBC,40000,none,What schemes can support rice cultivation and crop insurance for a leased farmer?
+F004,Birsa Munda,HP,Kinnaur,2.0,Owned,maize,ST,75000,PM-KISAN,Find maize farming schemes and equipment subsidy options in Kinnaur.
+F005,Anita Devi,Maharashtra,Nashik,4.0,Owned,onion,General,200000,Aadhaar KCC,Which schemes can support onion farming and post-harvest infrastructure?
