@@ -1,0 +1,8 @@
+# Generated presentation exports are distributed through the project Drive folder.
+presentation/*.mp4
+presentation/*.pptx
+
+# Local runtime output.
+logs/*.json
+__pycache__/
+.pytest_cache/
