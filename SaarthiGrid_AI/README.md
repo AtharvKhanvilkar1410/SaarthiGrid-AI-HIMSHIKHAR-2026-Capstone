@@ -1,7 +1,7 @@
 # SaarthiGrid AI 🌾
 ### Farmer Subsidy and Advisory Navigation Agent
 
-SaarthiGrid AI is a production-quality capstone project for the HIMSHIKHAR 2026 AAI track. It helps farmers discover Indian government subsidy and advisory schemes by combining a structured scheme knowledge base, deterministic eligibility filtering, LangGraph orchestration, and farmer-friendly LLM explanations. The project focuses on a real use case: a farmer often knows their crop, land size, district, caste category, income, and existing registrations, but does not know which central or state schemes apply or where to begin.
+SaarthiGrid AI is a production-quality Agentic AI project. It helps farmers discover Indian government subsidy and advisory schemes by combining a structured scheme knowledge base, deterministic eligibility filtering, LangGraph orchestration, and farmer-friendly LLM explanations. The project focuses on a real use case: a farmer often knows their crop, land size, district, caste category, income, and existing registrations, but does not know which central or state schemes apply or where to begin.
 
 The first release includes 25 real schemes: 15 central government schemes and 10 Himachal Pradesh schemes across income support, crop insurance, pension, credit, soil health, irrigation, market access, infrastructure, organic farming, horticulture, mechanization, seeds, livestock, and mushroom cultivation. The system is intentionally conservative. It does not approve applications and does not promise benefits. Instead, it says a farmer may qualify, explains the reason, lists documents, and points to the official portal or department office.
 
@@ -163,14 +163,5 @@ The current database is curated manually. Subsidy percentages, application windo
 
 ## 13. Team
 
-Team [Name]  
-HIMSHIKHAR 2026 | AAI Capstone  
+Team SaarthiGrid AI
 Roles: AI engineering, data curation, documentation, testing, and presentation.
-
-## 14. License
-
-MIT License
-
-## 15. Acknowledgements
-
-We acknowledge HIMSHIKHAR 2026, IIT Mandi, Masai, the Government of India agriculture ecosystem, and the Himachal Pradesh Agriculture, Horticulture, and Animal Husbandry departments for publicly available scheme information that made this capstone possible.

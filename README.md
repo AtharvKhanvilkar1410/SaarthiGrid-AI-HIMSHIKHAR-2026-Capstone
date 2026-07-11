@@ -1,7 +1,7 @@
 # SaarthiGrid AI
 ### Farmer Subsidy and Advisory Navigation Agent
 
-SaarthiGrid AI is a production-quality Agentic AI capstone project for HIMSHIKHAR 2026. It helps Indian farmers discover relevant government subsidy and advisory schemes by combining a structured scheme knowledge base, deterministic eligibility filtering, LangGraph orchestration, and farmer-friendly explanations.
+SaarthiGrid AI is a production-quality Agentic AI project. It helps Indian farmers discover relevant government subsidy and advisory schemes by combining a structured scheme knowledge base, deterministic eligibility filtering, LangGraph orchestration, and farmer-friendly explanations.
 
 Farmers often know their crop, land size, district, social category, income, and existing registrations but still struggle to determine which schemes apply, what documents are required, and where to begin. SaarthiGrid AI turns that profile into a transparent shortlist of schemes and a practical action plan without claiming to make an official eligibility decision.
 
@@ -76,11 +76,10 @@ Fine-tuning would make frequently changing scheme rules difficult to inspect and
 
 ## Quickstart
 
-1. Clone the repository and enter the project directory:
+1. Clone this repository using the **Code** menu, then enter the project directory:
 
 ```bash
-git clone https://github.com/AtharvKhanvilkar1410/SaarthiGrid-AI-HIMSHIKHAR-2026-Capstone.git
-cd SaarthiGrid-AI-HIMSHIKHAR-2026-Capstone/SaarthiGrid_AI
+cd SaarthiGrid_AI
 ```
 
 2. Create a virtual environment and install dependencies:
@@ -231,13 +230,4 @@ The application does not request or store Aadhaar numbers, bank account details,
 
 **Team:** SaarthiGrid AI  
 **Project:** Farmer Subsidy and Advisory Navigation Agent  
-**Track:** Agentic AI  
-**Submission:** HIMSHIKHAR 2026 AAI Capstone
-
-## License
-
-This project is released under the MIT License.
-
-## Acknowledgements
-
-The team acknowledges HIMSHIKHAR 2026, IIT Mandi, Masai, the Government of India agriculture ecosystem, and the Himachal Pradesh Agriculture, Horticulture, and Animal Husbandry departments for the public scheme information used in this capstone.
+**Track:** Agentic AI

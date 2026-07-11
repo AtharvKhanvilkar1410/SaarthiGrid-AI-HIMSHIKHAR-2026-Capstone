@@ -4,10 +4,10 @@
 
 **SaarthiGrid AI**  
 Farmer Subsidy and Advisory Navigation Agent  
-HIMSHIKHAR 2026 | AAI Capstone | Team [Name]
+Agentic AI Capstone | Team SaarthiGrid AI
 
 **Speaker Notes:**  
-Good morning. We are presenting SaarthiGrid AI, a farmer subsidy and advisory navigation agent designed for the HIMSHIKHAR 2026 AAI Capstone. The project helps farmers understand which government schemes may fit their farm profile, what documents they need, and where to apply. Our focus is not just building a chatbot, but building an auditable AI workflow for responsible public-service navigation.
+Good morning. We are presenting SaarthiGrid AI, a farmer subsidy and advisory navigation agent designed as an Agentic AI capstone. The project helps farmers understand which government schemes may fit their farm profile, what documents they need, and where to apply. Our focus is not just building a chatbot, but building an auditable AI workflow for responsible public-service navigation.
 
 ## Slide 2: The Problem
 
